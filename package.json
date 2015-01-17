@@ -1,0 +1,23 @@
+{
+  "name": "rp-voxel-server",
+  "version": "0.0.1",
+  "description": "A fork of voxel-server aiming to construct Dungeon Master esque games.",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georgzoeller/rp-voxel-server"
+  },
+  "keywords": [
+    "voxel-engine",
+    "voxel"
+  ],
+  "author": "georgzoeller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgzoeller/rp-voxel-server/issues"
+  },
+  "homepage": "https://github.com/georgzoeller/rp-voxel-server"
+}
