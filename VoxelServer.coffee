@@ -14,7 +14,6 @@ module.exports = class Server extends EventEmitter
 
     constructor: (opts) ->
         @initialize opts
-        return
 
     initialize: (opts) ->
 
