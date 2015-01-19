@@ -1,2 +1,2 @@
 module.exports = (opts) ->
-    return (new require('VoxelServer'))(opts)
+    return (new require('./VoxelServer'))(opts)
